@@ -7,6 +7,9 @@
 5. Creas un Pin de 6 digitos
 6. Abres el vps con tu pin que creaste.
 
-
-En caso de que no entiendas o te pierdas en algunos de los pasos puedes ingresar a ver este video https://www.youtube.com/watch?v=mWBG3t14EHM
+</br>
+En caso de que no entiendas o te pierdas en algunos de los pasos puedes ingresar a ver este video 
+</br>
+https://www.youtube.com/watch?v=mWBG3t14EHM
+</br>
 PD: El video no es mio
